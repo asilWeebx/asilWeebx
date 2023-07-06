@@ -1,18 +1,18 @@
 ![python](https://github.com/QuvonchbekBobojonov/QuvonchbekBobojonov/assets/111079758/4e9d54f0-4b02-4e71-aab9-2c51b352405a)
 
-<h1 align="center">Hi 👋, I'm Yuldashev Asilbek</h1>
+<h1 align="center">Hi , I'm Yuldashev Asilbek</h1>
 <h3 align="center">A passionate backend and full stack python developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asilweebx&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Asilweebx" /> </p>
 
-- 🔭 I’m currently working on **I am not working at the moment**
+-  I’m currently working on **I am not working at the moment**
 
-- 🌱 I’m currently learning **react**
+-  I’m currently learning **react**
 
-- 💬 Ask me about **Django, Django rest framework, Python, javascript, <br/> Aiogram, CSS Sqlite3 PostgreSql and more...**
+-  Ask me about **Django, Django rest framework, Python, javascript, <br/> Aiogram, CSS Sqlite3 PostgreSql and more...**
 
-- 📫 How to reach me **asilweb9999@gmail.com**
+-  How to reach me **asilweb9999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
