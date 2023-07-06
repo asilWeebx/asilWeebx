@@ -1,23 +1,23 @@
 ![python](https://github.com/QuvonchbekBobojonov/QuvonchbekBobojonov/assets/111079758/4e9d54f0-4b02-4e71-aab9-2c51b352405a)
 
-<h1 align="center">Hi 👋, I'm Quvonchbek Bobojonov</h1>
+<h1 align="center">Hi 👋, I'm Yuldashev Asilbek</h1>
 <h3 align="center">A passionate backend and full stack python developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=QuvonchbekBobojonov&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="QuvonchbekBobojonov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asilweebx&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Asilweebx" /> </p>
 
 - 🔭 I’m currently working on **I am not working at the moment**
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **Django, Django rest framework, Python, javascript, <br/> PYQT, Typescript, Aiogram, CSS Sqlite3 PostgreSql and more...**
+- 💬 Ask me about **Django, Django rest framework, Python, javascript, <br/> Aiogram, CSS Sqlite3 PostgreSql and more...**
 
-- 📫 How to reach me **moorfoinfo@gmail.com**
+- 📫 How to reach me **asilweb9999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/moorfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="QuvonchbekBobojonov" height="30" width="40" /></a>
-<a href="https://instagram.com/moorfo.uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="QuvonchbekBobojonov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/moorfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Asilweebx" height="30" width="40" /></a>
+<a href="https://instagram.com/moorfo.uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AsilWeebx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,8 +34,8 @@
 <a href="https://wordpress.com" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/8e/31/70/8e3170421b512c1eceabc90cc1c8d43d.png" alt="wordpress" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuvonchbekBobojonov&show_icons=true&locale=en&layout=compact" alt="QuvonchbekBobojonov" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asilweebx&show_icons=true&locale=en&layout=compact" alt="asilweebx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=QuvonchbekBobojonov&show_icons=true&locale=en" alt="QuvonchbekBobojonov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asilweebx&show_icons=true&locale=en" alt="Asilweebx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuvonchbekBobojonov&" alt="alimovfoziljon" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asilweebx&" alt="alimovfoziljon" /></p>
