@@ -8,7 +8,7 @@
 
 -  I’m currently working on **I am not working at the moment**
 
--  I’m currently learning **react**
+-  I’m currently learning **Machine Learning**
 
 -  Ask me about **Django, Django rest framework, Python, javascript, <br/> Aiogram, CSS Sqlite3 PostgreSql and more...**
 
